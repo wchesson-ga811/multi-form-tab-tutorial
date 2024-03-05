@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.form-control:focus {
+  box-shadow: none !important;
+}
